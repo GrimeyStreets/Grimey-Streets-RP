@@ -1,0 +1,2 @@
+Execute the items.sql file partially by adding items first and then inserting weapons only when necessary. 
+Then run jobs.sql to set up job installations.

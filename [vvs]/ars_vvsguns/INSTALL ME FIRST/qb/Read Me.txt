@@ -1,0 +1,6 @@
+Instructions to install and configure the database.
+
+Insert SQL into your database to create the required tables for this script.
+Add jobs from job.txt to the qbcore jobs.
+add items from items.txt to the qbcore items.
+add boss menu configure to the qb-management/client/cl_config.lua or qb-management/config.lua file.
